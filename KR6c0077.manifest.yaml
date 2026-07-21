@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0077_000.yaml, hash: 'sha256:7f3e8a0d30bc7537c476cf2732deb7294c52bdc3620b1cc2ac9b692eadd3958b'}
+  - {seq: 0, filename: KR6c0077_000.yaml, hash: 'sha256:af3b48fc422bd63f9e412cf590fac8f16e0489e24ffe3e98affee75ab9b9adb6'}
   - {seq: 1, filename: KR6c0077_001.yaml, hash: 'sha256:62e66b934244b00fa88cbc315c21b2ccf45cfb846bbdbe084b77830d04c27947'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0077_000.markers.yaml, hash: 'sha256:dada993ad7a5c3ce54263e7fcbb21aefbc38b69badb2b03bb1c2eec0b18781ad'}
+  - {seq: 0, role: markers, filename: assets/KR6c0077_000.markers.yaml, hash: 'sha256:ce5ac3979d5bc1136fd207e3421ff7cbca6c7124dc1033a94bbb362222e5645a'}
   - {seq: 1, role: markers, filename: assets/KR6c0077_001.markers.yaml, hash: 'sha256:68e04759023394c4f87fafc196f2643d2c769145a93cf0e8bcc28f4a513d3aba'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0077_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 489-A 金剛經註正譌序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0077_X_000-mulu-2
     span:
-    - front
+    - body
     - 286
     - 286
   label: No. 489-B 金剛經註正譌序
@@ -387,7 +387,7 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:c322de52812a4bc8de02941715d3aa206ebce7e77002823e2f2974a50cdfb37c
+hash: sha256:7d555ef881716ef15262fa207e8f4a92b51a843e83820cb424f43f85cd2ef905
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

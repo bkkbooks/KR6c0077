@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0077_000-X.yaml, hash: 'sha256:efb656d4b011c7c90b35dfe825b89d72066826dec901abd8109fc0551dc460cd'}
+  - {seq: 0, filename: KR6c0077_000-X.yaml, hash: 'sha256:716eaa67f01654c83dee92cc2007ff6d59b13ba3805a97b4642e5edf9097b5e4'}
   - {seq: 1, filename: KR6c0077_001-X.yaml, hash: 'sha256:615c1fc44d5d0953fd511015910f0157d403206e50fffd09e50747f0317e30d6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0077_000-X.markers.yaml, hash: 'sha256:295c1336bcb3b235712d3b95f95d74b4b3673ac2be4c3b690279cd054e8f1f5b'}
+  - {seq: 0, role: markers, filename: assets/KR6c0077_000-X.markers.yaml, hash: 'sha256:9ee49e96e5ad9381d8a18ccfc88c604277fa40c82f5d2e9d9b58ad75861ef538'}
   - {seq: 1, role: markers, filename: assets/KR6c0077_001-X.markers.yaml, hash: 'sha256:1a4cab89962b40e16742e3a60eb0ab753590ef10d880c8e3428278a4c1efadab'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0077_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 489-A 金剛經註正譌序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0077_X_000-mulu-2
     span:
-    - front
+    - body
     - 286
     - 286
   label: No. 489-B 金剛經註正譌序
@@ -385,4 +385,4 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:d159aca24df244212506b20fa21af7dcb7cba8c1b5808f8f728cc7ae32c2f179
+hash: sha256:3b5e1d77571fc5810576116b7a8c3f58b40a8c81abbe50b0de6b48cd8a202e05
